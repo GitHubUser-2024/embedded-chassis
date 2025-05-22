@@ -1,2 +1,2 @@
 # embedded-chassis
-FreeRTOS based chasis for any embedded project
+FreeRTOS based chassis for any embedded project
